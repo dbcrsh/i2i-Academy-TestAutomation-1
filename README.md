@@ -1,2 +1,10 @@
 # i2i-Academy-TestAutomation-1
-i2i Academy Test Automation project including Selenium, Rest Assured and JMeter tests
+
+This repo contains my first test automation assignment for the i2i Academy internship program.
+
+Tests included in this project:
+* UI login testing with Selenium WebDriver (Java)
+* API testing with REST Assured
+* Performance and stress testing with Apache JMeter
+
+Ege Göktuğ Ergin
